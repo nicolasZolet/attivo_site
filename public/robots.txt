@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://attivotech.com.br/sitemap.xml
